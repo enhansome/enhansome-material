@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "description": "Your contributions are always welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:43:34.734Z",
+    "original_repository": "sachin1092/awesome-material",
+    "original_repository_sha": "5931bc60a43a86a3d3c9a5c71d3faae0b586f931",
+    "enhanced_repository": "enhansome/enhansome-material",
+    "enhanced_repository_description": null,
+    "title": "Awesome Material Design with stars"
+  }
+}
