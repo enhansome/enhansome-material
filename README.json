@@ -1,14 +1,577 @@
 {
   "items": [
     {
-      "description": "Your contributions are always welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "material-design-icons",
+          "description": "Material Design icons by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24953448,
+            "language": null,
+            "last_commit": "2026-08-14T03:02:13Z",
+            "owner": "google",
+            "repo": "material-design-icons",
+            "stars": 53782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-design-iconic-font",
+          "description": "Material Design Iconic Font and CSS toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25588324,
+            "language": "SCSS",
+            "last_commit": "2023-02-17T18:32:38Z",
+            "owner": "zavoloklom",
+            "repo": "material-design-iconic-font",
+            "stars": 1403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-colors",
+          "description": "Colors of Google's Material Design made available to coders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22213789,
+            "language": "JavaScript",
+            "last_commit": "2026-05-28T01:09:30Z",
+            "owner": "shuhei",
+            "repo": "material-colors",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-color",
+          "description": "The colour palette, based on Google's Material Design, for use in your project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22229570,
+            "language": "CSS",
+            "last_commit": "2017-07-28T20:06:13Z",
+            "owner": "mrmlnc",
+            "repo": "material-color",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sass-material-colors",
+          "description": "An easy way to use Google's Material Design colors in your Sass/Scss project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 27362836,
+            "language": "CSS",
+            "last_commit": "2016-10-08T13:03:57Z",
+            "owner": "minusfive",
+            "repo": "sass-material-colors",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-design-fonticons",
+          "description": "Material Design Fonticons is a font converted version of the Google Material Design Icon set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26066492,
+            "language": "CSS",
+            "last_commit": "2017-04-18T01:19:59Z",
+            "owner": "designjockey",
+            "repo": "material-design-fonticons",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google-Material-Design-Font-Icon",
+          "description": "Font Icon based on Google Material Design Icon set.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 25540226,
+            "language": "CSS",
+            "last_commit": "2018-01-14T20:55:49Z",
+            "owner": "Seb-L",
+            "repo": "Google-Material-Design-Font-Icon",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Icons, Fonts and Colors"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SVG-Morpheus",
+          "description": "JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27065091,
+            "language": "JavaScript",
+            "last_commit": "2017-07-21T12:53:57Z",
+            "owner": "alexk111",
+            "repo": "SVG-Morpheus",
+            "stars": 2696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-material-floating-button",
+          "description": "Material design floating menu with action buttons implemented as an Angularjs directive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27908995,
+            "language": "JavaScript",
+            "last_commit": "2016-10-23T12:42:52Z",
+            "owner": "nobitagit",
+            "repo": "ng-material-floating-button",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "md-date-time",
+          "description": "A Date-Time picker based on Googles Material Design Spec.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 28894466,
+            "language": "JavaScript",
+            "last_commit": "2015-09-14T21:51:08Z",
+            "owner": "SimeonC",
+            "repo": "md-date-time",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-design-color-palette",
+          "description": "Material Design Color Palette: LESS/CSS toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27865951,
+            "language": "CSS",
+            "last_commit": "2016-03-19T20:33:47Z",
+            "owner": "zavoloklom",
+            "repo": "material-design-color-palette",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "md-timepicker",
+          "description": "A Polymer Timepicker element in Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 25880281,
+            "language": "HTML",
+            "last_commit": "2018-11-03T22:17:56Z",
+            "owner": "dotlouis",
+            "repo": "md-timepicker",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material-Design-ColorPicker",
+          "description": "A Material Design Color Picker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23308390,
+            "language": "CSS",
+            "last_commit": "2018-04-12T06:46:10Z",
+            "owner": "fraina",
+            "repo": "Material-Design-ColorPicker",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Components"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "material-ui",
+          "description": "A CSS Framework and a Set of React Components that Implement Google's Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23083156,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T09:19:22Z",
+            "owner": "mui",
+            "repo": "material-ui",
+            "stars": 98862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "materialize",
+          "description": "Materialize, a CSS Framework based on Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23974149,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T14:51:54Z",
+            "owner": "Dogfalo",
+            "repo": "materialize",
+            "stars": 38816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mui",
+          "description": "A lightweight CSS framework that follows Material Design guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30835106,
+            "language": "JavaScript",
+            "last_commit": "2021-08-23T07:53:31Z",
+            "owner": "muicss",
+            "repo": "mui",
+            "stars": 4484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-framework",
+          "description": "An easy to use material design based framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22461179,
+            "language": "HTML",
+            "last_commit": "2019-12-07T18:36:10Z",
+            "owner": "nt1m",
+            "repo": "material-framework",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surface",
+          "description": "A lightweight, CSS only framework based on Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34746927,
+            "language": "CSS",
+            "last_commit": "2022-12-06T15:08:08Z",
+            "owner": "mildrenben",
+            "repo": "surface",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-foundation",
+          "description": "A Material Design version of Foundation for Sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26712627,
+            "language": "CSS",
+            "last_commit": "2017-10-20T22:49:57Z",
+            "owner": "mikolajdobrucki",
+            "repo": "material-foundation",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-playground",
+          "description": "Polymer material design playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21309493,
+            "language": "JavaScript",
+            "last_commit": "2021-10-04T15:53:19Z",
+            "owner": "ebidel",
+            "repo": "material-playground",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "materialBootstrap",
+          "description": "Twitter Bootstrap theme for Google material design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21642420,
+            "language": "CSS",
+            "last_commit": "2015-09-16T09:59:03Z",
+            "owner": "throrin19",
+            "repo": "materialBootstrap",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootstrap-material-design",
+          "description": "Material design theme for Bootstrap 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301358198,
+            "language": "HTML",
+            "last_commit": "2021-05-21T09:34:21Z",
+            "owner": "FezVrasta",
+            "repo": "bootstrap-material-design",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "material-design-lite",
+          "description": "Material Design Lite Components in HTML/CSS/JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29268051,
+            "language": "HTML",
+            "last_commit": "2026-05-03T01:41:50Z",
+            "owner": "google",
+            "repo": "material-design-lite",
+            "stars": 32185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular",
+          "description": "Material design for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49016322,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T18:02:11Z",
+            "owner": "angular",
+            "repo": "components",
+            "stars": 25034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngularJS",
+          "description": "Material design for AngularJS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 21399598,
+            "language": "JavaScript",
+            "last_commit": "2024-09-05T18:38:55Z",
+            "owner": "angular",
+            "repo": "material",
+            "stars": 16400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-paper",
+          "description": "The Ember approach to Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25473816,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T03:27:05Z",
+            "owner": "adopted-ember-addons",
+            "repo": "ember-paper",
+            "stars": 879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-material",
+          "description": "Material design components written with React.js and React Style.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22758690,
+            "language": "HTML",
+            "last_commit": "2017-04-19T00:28:48Z",
+            "owner": "BerkeleyTrue",
+            "repo": "react-material",
+            "stars": 402
+          }
+        }
+      ],
+      "title": "JS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "quantum-colors",
+          "description": "Material Design color palette for your Sass projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24666245,
+            "language": "CSS",
+            "last_commit": "2018-01-29T16:54:21Z",
+            "owner": "pfist",
+            "repo": "quantum-colors",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quantum-shadows",
+          "description": "Material Design drop shadows for your Sass projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24746199,
+            "language": "CSS",
+            "last_commit": "2017-03-08T06:57:56Z",
+            "owner": "pfist",
+            "repo": "quantum-shadows",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-material-design",
+          "description": "Small SASS library inspired by google material design guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21479738,
+            "language": "CSS",
+            "last_commit": "2014-08-04T10:25:22Z",
+            "owner": "axyz",
+            "repo": "google-material-design",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "SASS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "materialwp",
+          "description": "Material Design WordPress Theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27400599,
+            "language": "CSS",
+            "last_commit": "2023-01-10T22:26:40Z",
+            "owner": "braginteractive",
+            "repo": "materialwp",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialPress",
+          "description": "MaterialPress is a WordPress theme, influenced heavily by Google's Material Design philosophy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26661932,
+            "language": "JavaScript",
+            "last_commit": "2015-03-14T15:24:47Z",
+            "owner": "alexpatin",
+            "repo": "MaterialPress",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "WordPress"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "material_design_zh",
+          "description": "Material Design Collaborative Chinese translation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21226841,
+            "language": "CSS",
+            "last_commit": "2019-05-06T10:30:52Z",
+            "owner": "1sters",
+            "repo": "material_design_zh",
+            "stars": 3050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-color-scheme",
+          "description": "Sublime Text syntax theme based off the Material Design color palette.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22387719,
+            "language": "CSS",
+            "last_commit": "2016-01-07T23:50:41Z",
+            "owner": "willsoto",
+            "repo": "material-color-scheme",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "framaterial",
+          "description": "A Framework to create Material Design projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29033516,
+            "language": "CSS",
+            "last_commit": "2015-10-14T11:45:18Z",
+            "owner": "Framaterial",
+            "repo": "framaterial",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:47:51.402Z",
+    "last_updated": "2026-08-19T12:38:22.161Z",
     "original_repository": "sachin1092/awesome-material",
+    "original_repository_id": 29335836,
     "original_repository_sha": "5931bc60a43a86a3d3c9a5c71d3faae0b586f931",
     "enhanced_repository": "enhansome/enhansome-material",
     "enhanced_repository_description": null,
