@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53784
+            "stars": 53790
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2017-07-21T12:53:57Z",
             "owner": "alexk111",
             "repo": "SVG-Morpheus",
-            "stars": 2696
+            "stars": 2697
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T04:47:09Z",
+            "last_commit": "2026-08-20T13:46:18Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98869
+            "stars": 98879
           }
         },
         {
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 23974149,
             "language": "JavaScript",
-            "last_commit": "2026-07-31T14:51:54Z",
+            "last_commit": "2026-08-20T13:49:11Z",
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38817
+            "stars": 38815
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 49016322,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:59:42Z",
+            "last_commit": "2026-08-20T16:04:46Z",
             "owner": "angular",
             "repo": "components",
-            "stars": 25034
+            "stars": 25035
           }
         },
         {
@@ -563,16 +563,31 @@
             "repo": "framaterial",
             "stars": 44
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Toolkit for LabVIEW",
+          "description": "Material Design for LabVIEW applications; import, modify, and use generated themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1020242172,
+            "language": "LabVIEW",
+            "last_commit": "2026-08-20T18:40:25Z",
+            "owner": "danielcoons",
+            "repo": "tsc-material-theme",
+            "stars": 25
+          }
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:48:27.516Z",
+    "last_updated": "2026-08-21T04:50:40.767Z",
     "original_repository": "sachin1092/awesome-material",
     "original_repository_id": 29335836,
-    "original_repository_sha": "5931bc60a43a86a3d3c9a5c71d3faae0b586f931",
+    "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
     "enhanced_repository": "enhansome/enhansome-material",
     "enhanced_repository_description": null,
     "title": "Awesome Material Design with stars"
