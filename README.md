@@ -4,7 +4,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Icons, Fonts and Colors
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,790 | 🐛 422 | 📅 2026-08-14 — Material Design icons by Google.
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,799 | 🐛 423 | 📅 2026-08-14 — Material Design icons by Google.
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17 — Material Design Iconic Font and CSS toolkit.
 * [material-colors](https://github.com/shuhei/material-colors) ⭐ 273 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-28 — Colors of Google's Material Design made available to coders.
 * [material-color](https://github.com/mrmlnc/material-color) ⭐ 137 | 🐛 1 | 🌐 CSS | 📅 2017-07-28 — The colour palette, based on Google's Material Design, for use in your project.
@@ -35,8 +35,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # CSS
 
-* [material-ui](https://github.com/callemall/material-ui) ⭐ 98,879 | 🐛 1,489 | 🌐 JavaScript | 📅 2026-08-20 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
-* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,815 | 🐛 791 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
+* [material-ui](https://github.com/callemall/material-ui) ⭐ 98,888 | 🐛 1,489 | 🌐 JavaScript | 📅 2026-08-22 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,814 | 🐛 791 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
 * [mui](https://github.com/muicss/mui) ⭐ 4,484 | 🐛 77 | 🌐 JavaScript | 📅 2021-08-23 — A lightweight CSS framework that follows Material Design guidelines.
 * [material-framework](https://github.com/nt1m/material-framework) ⭐ 382 | 🐛 36 | 🌐 HTML | 📅 2019-12-07 — An easy to use material design based framework.
 * [Surface](https://github.com/mildrenben/surface) ⭐ 357 | 🐛 29 | 🌐 CSS | 📅 2022-12-06 — A lightweight, CSS only framework based on Material Design.
@@ -48,8 +48,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # JS
 
-* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,185 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
-* [Angular](https://github.com/angular/material2) ⭐ 25,035 | 🐛 1,375 | 🌐 TypeScript | 📅 2026-08-20 — Material design for Angular.
+* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,184 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
+* [Angular](https://github.com/angular/material2) ⭐ 25,033 | 🐛 1,369 | 🌐 TypeScript | 📅 2026-08-21 — Material design for Angular.
 * [AngularJS](https://github.com/angular/material) ⚠️ Archived — Material design for AngularJS.
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 879 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 — The Ember approach to Material Design.
 * [react-material](https://github.com/BerkeleyTrue/react-material) ⚠️ Archived — Material design components written with React.js and React Style.
@@ -73,14 +73,14 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # XAML
 
-* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,241 | 🐛 149 | 🌐 C# | 📅 2026-08-21 — Google's Material Design in XAML & WPF, for C# & VB.Net.
+* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,241 | 🐛 148 | 🌐 C# | 📅 2026-08-22 — Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 # Other
 
 * [material\_design\_zh](https://github.com/1sters/material_design_zh) ⭐ 3,050 | 🐛 12 | 🌐 CSS | 📅 2019-05-06 — Material Design Collaborative Chinese translation
 * [material-color-scheme](https://github.com/paradox41/material-color-scheme) ⚠️ Archived — Sublime Text syntax theme based off the Material Design color palette.
 * [framaterial](https://github.com/Framaterial/framaterial) ⭐ 44 | 🐛 7 | 🌐 CSS | 📅 2015-10-14 — A Framework to create Material Design projects.
-* [Material Toolkit for LabVIEW](https://github.com/danielcoons/tsc-material-theme) ⭐ 25 | 🐛 5 | 🌐 LabVIEW | 📅 2026-08-20 - Material Design for LabVIEW applications; import, modify, and use generated themes.
+* [Material Toolkit for LabVIEW](https://github.com/danielcoons/tsc-material-theme) ⭐ 25 | 🐛 5 | 🌐 LabVIEW | 📅 2026-08-21 - Material Design for LabVIEW applications; import, modify, and use generated themes.
 * [Material Design Templates](http://themeforest.net/tags/material%20design) — Various material design inspired themes and templates on ThemeForest.
 * [MaterialUp](http://www.materialup.com/) — Get your daily dose of Material design inspiration!
 * [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.
@@ -89,7 +89,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,614 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,617 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ## Contributing
 
@@ -97,4 +97,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
