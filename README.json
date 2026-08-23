@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53799
+            "stars": 53805
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T04:07:50Z",
+            "last_commit": "2026-08-23T00:31:46Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98888
+            "stars": 98895
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-20T13:49:11Z",
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38814
+            "stars": 38812
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-05-03T01:41:50Z",
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32184
+            "stars": 32187
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 49016322,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:52:39Z",
+            "last_commit": "2026-08-22T08:13:47Z",
             "owner": "angular",
             "repo": "components",
-            "stars": 25033
+            "stars": 25034
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2024-09-05T18:38:55Z",
             "owner": "angular",
             "repo": "material",
-            "stars": 16402
+            "stars": 16401
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:44:21.205Z",
+    "last_updated": "2026-08-23T04:48:34.102Z",
     "original_repository": "sachin1092/awesome-material",
     "original_repository_id": 29335836,
     "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
