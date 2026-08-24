@@ -219,10 +219,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T00:31:46Z",
+            "last_commit": "2026-08-24T12:56:04Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98906
+            "stars": 98914
           }
         },
         {
@@ -375,7 +375,7 @@
             "archived": false,
             "id": 49016322,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T08:13:47Z",
+            "last_commit": "2026-08-24T07:26:31Z",
             "owner": "angular",
             "repo": "components",
             "stars": 25036
@@ -521,6 +521,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MaterialSkin",
+          "description": "Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28242626,
+            "language": "C#",
+            "last_commit": "2024-07-15T08:36:06Z",
+            "owner": "IgnaceMaes",
+            "repo": "MaterialSkin",
+            "stars": 3041
+          }
+        }
+      ],
+      "title": "WinForms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MaterialDesignInXamlToolkit",
+          "description": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30474266,
+            "language": "C#",
+            "last_commit": "2026-08-22T03:35:24Z",
+            "owner": "MaterialDesignInXAML",
+            "repo": "MaterialDesignInXamlToolkit",
+            "stars": 16243
+          }
+        }
+      ],
+      "title": "XAML"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "material_design_zh",
           "description": "Material Design Collaborative Chinese translation",
           "children": [],
@@ -584,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:56:50.294Z",
+    "last_updated": "2026-08-24T14:18:00.800Z",
     "original_repository": "sachin1092/awesome-material",
     "original_repository_id": 29335836,
     "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
