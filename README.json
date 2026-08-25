@@ -219,10 +219,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T15:14:09Z",
+            "last_commit": "2026-08-25T05:46:41Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98921
+            "stars": 98923
           }
         },
         {
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:49:38.950Z",
+    "last_updated": "2026-08-25T06:11:13.587Z",
     "original_repository": "sachin1092/awesome-material",
     "original_repository_id": 29335836,
     "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
