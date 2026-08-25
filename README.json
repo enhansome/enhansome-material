@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53807
+            "stars": 53812
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:56:04Z",
+            "last_commit": "2026-08-24T15:14:09Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98914
+            "stars": 98921
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2024-09-05T18:38:55Z",
             "owner": "angular",
             "repo": "material",
-            "stars": 16401
+            "stars": 16400
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-22T03:35:24Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16243
+            "stars": 16242
           }
         }
       ],
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1020242172,
             "language": "LabVIEW",
-            "last_commit": "2026-08-21T17:03:11Z",
+            "last_commit": "2026-08-24T18:55:09Z",
             "owner": "danielcoons",
             "repo": "tsc-material-theme",
             "stars": 25
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:00.800Z",
+    "last_updated": "2026-08-25T04:49:38.950Z",
     "original_repository": "sachin1092/awesome-material",
     "original_repository_id": 29335836,
     "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
