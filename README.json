@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53812
+            "stars": 53819
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:46:41Z",
+            "last_commit": "2026-08-26T04:34:12Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98923
+            "stars": 98924
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-20T13:49:11Z",
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38812
+            "stars": 38813
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2019-12-07T18:36:10Z",
             "owner": "nt1m",
             "repo": "material-framework",
-            "stars": 382
+            "stars": 381
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-05-03T01:41:50Z",
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32187
+            "stars": 32189
           }
         },
         {
@@ -375,7 +375,7 @@
             "archived": false,
             "id": 49016322,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:26:31Z",
+            "last_commit": "2026-08-25T17:30:27Z",
             "owner": "angular",
             "repo": "components",
             "stars": 25036
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-22T03:35:24Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16242
+            "stars": 16244
           }
         }
       ],
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1020242172,
             "language": "LabVIEW",
-            "last_commit": "2026-08-24T18:55:09Z",
+            "last_commit": "2026-08-25T17:44:14Z",
             "owner": "danielcoons",
             "repo": "tsc-material-theme",
             "stars": 25
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:13.587Z",
+    "last_updated": "2026-08-26T04:51:30.560Z",
     "original_repository": "sachin1092/awesome-material",
     "original_repository_id": 29335836,
     "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
