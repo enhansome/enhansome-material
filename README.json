@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53819
+            "stars": 53826
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2017-07-21T12:53:57Z",
             "owner": "alexk111",
             "repo": "SVG-Morpheus",
-            "stars": 2697
+            "stars": 2698
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T04:34:12Z",
+            "last_commit": "2026-08-27T11:35:12Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98924
+            "stars": 98946
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-05-03T01:41:50Z",
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32189
+            "stars": 32191
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 49016322,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:30:27Z",
+            "last_commit": "2026-08-27T09:50:23Z",
             "owner": "angular",
             "repo": "components",
-            "stars": 25036
+            "stars": 25037
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-22T03:35:24Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16244
+            "stars": 16246
           }
         }
       ],
@@ -626,9 +626,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:51:30.560Z",
-    "original_repository": "sachin1092/awesome-material",
-    "original_repository_id": 29335836,
+    "last_updated": "2026-08-27T11:50:28.705Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 29335836,
+      "language": null,
+      "last_commit": "2026-08-21T01:33:16Z",
+      "owner": "sachin1092",
+      "repo": "awesome-material",
+      "stars": 656
+    },
     "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
     "enhanced_repository": "enhansome/enhansome-material",
     "enhanced_repository_description": null,
