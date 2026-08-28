@@ -12,11 +12,12 @@
             "archived": false,
             "id": 24953448,
             "language": null,
-            "last_commit": "2026-08-14T03:02:13Z",
+            "last_commit": "2026-08-28T04:47:19Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53826
-          }
+            "stars": 53833
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "zavoloklom",
             "repo": "material-design-iconic-font",
             "stars": 1403
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "shuhei",
             "repo": "material-colors",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mrmlnc",
             "repo": "material-color",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "minusfive",
             "repo": "sass-material-colors",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "designjockey",
             "repo": "material-design-fonticons",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Seb-L",
             "repo": "Google-Material-Design-Font-Icon",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "Icons, Fonts and Colors"
@@ -127,7 +134,8 @@
             "owner": "alexk111",
             "repo": "SVG-Morpheus",
             "stars": 2698
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "nobitagit",
             "repo": "ng-material-floating-button",
             "stars": 463
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "SimeonC",
             "repo": "md-date-time",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "zavoloklom",
             "repo": "material-design-color-palette",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "dotlouis",
             "repo": "md-timepicker",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "fraina",
             "repo": "Material-Design-ColorPicker",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "Components"
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:00:56Z",
+            "last_commit": "2026-08-28T02:03:40Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98947
-          }
+            "stars": 98953
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "Dogfalo",
             "repo": "materialize",
             "stars": 38813
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "muicss",
             "repo": "mui",
             "stars": 4484
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "nt1m",
             "repo": "material-framework",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "mildrenben",
             "repo": "surface",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "mikolajdobrucki",
             "repo": "material-foundation",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "ebidel",
             "repo": "material-playground",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "throrin19",
             "repo": "materialBootstrap",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "FezVrasta",
             "repo": "bootstrap-material-design",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "CSS"
@@ -364,7 +386,8 @@
             "owner": "google",
             "repo": "material-design-lite",
             "stars": 32191
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "angular",
             "repo": "components",
             "stars": 25037
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "angular",
             "repo": "material",
             "stars": 16400
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "adopted-ember-addons",
             "repo": "ember-paper",
             "stars": 879
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "BerkeleyTrue",
             "repo": "react-material",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "JS"
@@ -445,7 +472,8 @@
             "owner": "pfist",
             "repo": "quantum-colors",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "pfist",
             "repo": "quantum-shadows",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "axyz",
             "repo": "google-material-design",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "SASS"
@@ -496,7 +526,8 @@
             "owner": "braginteractive",
             "repo": "materialwp",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "alexpatin",
             "repo": "MaterialPress",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "WordPress"
@@ -532,7 +564,8 @@
             "owner": "IgnaceMaes",
             "repo": "MaterialSkin",
             "stars": 3041
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "WinForms"
@@ -549,11 +582,12 @@
             "archived": false,
             "id": 30474266,
             "language": "C#",
-            "last_commit": "2026-08-22T03:35:24Z",
+            "last_commit": "2026-08-28T06:13:36Z",
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16246
-          }
+            "stars": 16249
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "XAML"
@@ -574,7 +608,8 @@
             "owner": "1sters",
             "repo": "material_design_zh",
             "stars": 3050
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -589,7 +624,8 @@
             "owner": "willsoto",
             "repo": "material-color-scheme",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -604,7 +640,8 @@
             "owner": "Framaterial",
             "repo": "framaterial",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         },
         {
           "node_type": "item",
@@ -619,14 +656,15 @@
             "owner": "danielcoons",
             "repo": "tsc-material-theme",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:33:56.863Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:09:00.444Z",
+    "last_updated": "2026-08-28T16:33:56.863Z",
     "original_repository_info": {
       "archived": false,
       "id": 29335836,
