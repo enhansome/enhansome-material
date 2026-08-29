@@ -329,7 +329,7 @@
             "open_issues": 1488,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98958,
+            "stars": 98960,
             "topics": [
               "design-system",
               "material-design",
@@ -595,11 +595,11 @@
             "id": 49016322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:20:51Z",
+            "last_commit": "2026-08-29T08:27:59Z",
             "open_issues": 1371,
             "owner": "angular",
             "repo": "components",
-            "stars": 25040,
+            "stars": 25041,
             "topics": [
               "angular",
               "angular-components",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:19.663Z",
+    "last_updated": "2026-08-29T11:00:34.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",

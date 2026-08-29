@@ -35,7 +35,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # CSS
 
-* [material-ui](https://github.com/callemall/material-ui) ⭐ 98,958 | 🐛 1,488 | 🌐 JavaScript | 📅 2026-08-28 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+* [material-ui](https://github.com/callemall/material-ui) ⭐ 98,960 | 🐛 1,488 | 🌐 JavaScript | 📅 2026-08-28 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
 * [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,814 | 🐛 791 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
 * [mui](https://github.com/muicss/mui) ⭐ 4,484 | 🐛 77 | 🌐 JavaScript | 📅 2021-08-23 — A lightweight CSS framework that follows Material Design guidelines.
 * [material-framework](https://github.com/nt1m/material-framework) ⭐ 381 | 🐛 36 | 🌐 HTML | 📅 2019-12-07 — An easy to use material design based framework.
@@ -49,7 +49,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 # JS
 
 * [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,191 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
-* [Angular](https://github.com/angular/material2) ⭐ 25,040 | 🐛 1,371 | 🌐 TypeScript | 📅 2026-08-28 — Material design for Angular.
+* [Angular](https://github.com/angular/material2) ⭐ 25,041 | 🐛 1,371 | 🌐 TypeScript | 📅 2026-08-29 — Material design for Angular.
 * [AngularJS](https://github.com/angular/material) ⚠️ Archived — Material design for AngularJS.
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 879 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 — The Ember approach to Material Design.
 * [react-material](https://github.com/BerkeleyTrue/react-material) ⚠️ Archived — Material design components written with React.js and React Style.
@@ -89,7 +89,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,636 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ## Contributing
 
