@@ -19,7 +19,7 @@
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53855,
+            "stars": 53857,
             "topics": [
               "android",
               "icons",
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T08:29:46Z",
-            "open_issues": 1486,
+            "last_commit": "2026-09-01T16:41:03Z",
+            "open_issues": 1483,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98979,
+            "stars": 98989,
             "topics": [
               "design-system",
               "material-design",
@@ -356,7 +356,7 @@
             "open_issues": 791,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38815,
+            "stars": 38814,
             "topics": [
               "css",
               "css-framework",
@@ -572,7 +572,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32193,
+            "stars": 32194,
             "topics": [
               "material",
               "material-components",
@@ -595,11 +595,11 @@
             "id": 49016322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:29:54Z",
-            "open_issues": 1374,
+            "last_commit": "2026-09-02T06:05:59Z",
+            "open_issues": 1373,
             "owner": "angular",
             "repo": "components",
-            "stars": 25042,
+            "stars": 25045,
             "topics": [
               "angular",
               "angular-components",
@@ -827,7 +827,7 @@
             "open_issues": 149,
             "owner": "IgnaceMaes",
             "repo": "MaterialSkin",
-            "stars": 3041,
+            "stars": 3042,
             "topics": [
               "c-sharp",
               "design",
@@ -860,7 +860,7 @@
             "open_issues": 146,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16249,
+            "stars": 16251,
             "topics": [
               "c-sharp",
               "design",
@@ -898,7 +898,7 @@
             "open_issues": 12,
             "owner": "1sters",
             "repo": "material_design_zh",
-            "stars": 3050,
+            "stars": 3049,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:21:36.149Z",
+    "last_updated": "2026-09-02T08:44:10.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
