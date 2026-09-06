@@ -19,7 +19,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53875,
+            "stars": 53882,
             "topics": [
               "android",
               "icons",
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:25:14Z",
-            "open_issues": 1475,
+            "last_commit": "2026-09-06T08:26:31Z",
+            "open_issues": 1485,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99012,
+            "stars": 99014,
             "topics": [
               "design-system",
               "material-design",
@@ -356,7 +356,7 @@
             "open_issues": 792,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38810,
+            "stars": 38808,
             "topics": [
               "css",
               "css-framework",
@@ -599,7 +599,7 @@
             "open_issues": 1370,
             "owner": "angular",
             "repo": "components",
-            "stars": 25046,
+            "stars": 25045,
             "topics": [
               "angular",
               "angular-components",
@@ -898,7 +898,7 @@
             "open_issues": 12,
             "owner": "1sters",
             "repo": "material_design_zh",
-            "stars": 3049,
+            "stars": 3048,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:18:50.437Z",
+    "last_updated": "2026-09-06T08:37:27.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
