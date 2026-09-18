@@ -15,11 +15,11 @@
             "id": 24953448,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T02:18:11Z",
+            "last_commit": "2026-09-18T02:15:08Z",
             "open_issues": 428,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53965,
+            "stars": 53973,
             "topics": [
               "android",
               "icons",
@@ -197,7 +197,7 @@
             "open_issues": 11,
             "owner": "alexk111",
             "repo": "SVG-Morpheus",
-            "stars": 2697,
+            "stars": 2698,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T08:22:44Z",
-            "open_issues": 1466,
+            "last_commit": "2026-09-18T05:43:01Z",
+            "open_issues": 1467,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99051,
+            "stars": 99052,
             "topics": [
               "design-system",
               "material-design",
@@ -356,7 +356,7 @@
             "open_issues": 792,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38802,
+            "stars": 38804,
             "topics": [
               "css",
               "css-framework",
@@ -572,7 +572,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32195,
+            "stars": 32197,
             "topics": [
               "material",
               "material-components",
@@ -596,10 +596,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-16T12:18:53Z",
-            "open_issues": 1369,
+            "open_issues": 1372,
             "owner": "angular",
             "repo": "components",
-            "stars": 25044,
+            "stars": 25045,
             "topics": [
               "angular",
               "angular-components",
@@ -957,8 +957,8 @@
             "id": 1020242172,
             "language": "LabVIEW",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T15:19:31Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-17T16:11:22Z",
+            "open_issues": 4,
             "owner": "danielcoons",
             "repo": "tsc-material-theme",
             "stars": 25,
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:23:42.964Z",
+    "last_updated": "2026-09-18T08:58:04.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
