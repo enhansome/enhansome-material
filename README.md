@@ -4,7 +4,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Icons, Fonts and Colors
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,981 | 🐛 428 | 📅 2026-09-18 — Material Design icons by Google.
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,994 | 🐛 427 | 📅 2026-09-18 — Material Design icons by Google.
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17 — Material Design Iconic Font and CSS toolkit.
 * [material-colors](https://github.com/shuhei/material-colors) ⭐ 270 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-28 — Colors of Google's Material Design made available to coders.
 * [material-color](https://github.com/mrmlnc/material-color) ⭐ 137 | 🐛 1 | 🌐 CSS | 📅 2017-07-28 — The colour palette, based on Google's Material Design, for use in your project.
@@ -35,8 +35,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # CSS
 
-* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,060 | 🐛 1,465 | 🌐 JavaScript | 📅 2026-09-18 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
-* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,804 | 🐛 792 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
+* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,060 | 🐛 1,475 | 🌐 JavaScript | 📅 2026-09-20 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,805 | 🐛 792 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
 * [mui](https://github.com/muicss/mui) ⭐ 4,479 | 🐛 77 | 🌐 JavaScript | 📅 2021-08-23 — A lightweight CSS framework that follows Material Design guidelines.
 * [material-framework](https://github.com/nt1m/material-framework) ⭐ 381 | 🐛 36 | 🌐 HTML | 📅 2019-12-07 — An easy to use material design based framework.
 * [Surface](https://github.com/mildrenben/surface) ⭐ 357 | 🐛 27 | 🌐 CSS | 📅 2022-12-06 — A lightweight, CSS only framework based on Material Design.
@@ -73,7 +73,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # XAML
 
-* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,257 | 🐛 147 | 🌐 C# | 📅 2026-09-11 — Google's Material Design in XAML & WPF, for C# & VB.Net.
+* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,258 | 🐛 147 | 🌐 C# | 📅 2026-09-11 — Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 # Other
 
@@ -97,4 +97,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

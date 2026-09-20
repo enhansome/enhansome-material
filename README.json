@@ -16,10 +16,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T02:15:08Z",
-            "open_issues": 428,
+            "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53981,
+            "stars": 53994,
             "topics": [
               "android",
               "icons",
@@ -325,8 +325,8 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:20:13Z",
-            "open_issues": 1465,
+            "last_commit": "2026-09-20T01:35:55Z",
+            "open_issues": 1475,
             "owner": "mui",
             "repo": "material-ui",
             "stars": 99060,
@@ -356,7 +356,7 @@
             "open_issues": 792,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38804,
+            "stars": 38805,
             "topics": [
               "css",
               "css-framework",
@@ -860,7 +860,7 @@
             "open_issues": 147,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16257,
+            "stars": 16258,
             "topics": [
               "c-sharp",
               "design",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:45:38.288Z",
+    "last_updated": "2026-09-20T09:14:27.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
@@ -983,7 +983,7 @@
       "open_issues": 1,
       "owner": "sachin1092",
       "repo": "awesome-material",
-      "stars": 658,
+      "stars": 659,
       "topics": []
     },
     "original_repository_sha": "18c61269b26c284e16b714b73cee2b4cd325a337",
