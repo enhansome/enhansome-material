@@ -4,7 +4,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Icons, Fonts and Colors
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,035 | 🐛 426 | 📅 2026-09-25 — Material Design icons by Google.
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,042 | 🐛 426 | 📅 2026-09-25 — Material Design icons by Google.
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,404 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17 — Material Design Iconic Font and CSS toolkit.
 * [material-colors](https://github.com/shuhei/material-colors) ⭐ 270 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-28 — Colors of Google's Material Design made available to coders.
 * [material-color](https://github.com/mrmlnc/material-color) ⭐ 137 | 🐛 1 | 🌐 CSS | 📅 2017-07-28 — The colour palette, based on Google's Material Design, for use in your project.
@@ -18,7 +18,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 # Animation
 
 * JavaScript
-  * [Waves](https://github.com/fians/Waves) ⭐ 3,460 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-11 — Click effect inspired by Google's Material Design.
+  * [Waves](https://github.com/fians/Waves) ⭐ 3,459 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-11 — Click effect inspired by Google's Material Design.
   * [material-design-hamburger](https://github.com/swirlycheetah/material-design-hamburger) ⭐ 88 | 🐛 2 | 🌐 CSS | 📅 2026-08-28 — Android's Material Design hamburger animation built in CSS.
   * [Material-Preloader](https://github.com/aarondo/Material-Preloader) ⭐ 362 | 🐛 4 | 🌐 CSS | 📅 2017-05-09 — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
   * [Google-material-design-ripple-effect](https://github.com/ninox92/Google-material-design-ripple-effect) — jQuery plugin recreates ripple and focus effect.
@@ -35,8 +35,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # CSS
 
-* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,107 | 🐛 1,465 | 🌐 JavaScript | 📅 2026-09-28 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
-* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,803 | 🐛 791 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
+* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,113 | 🐛 1,444 | 🌐 JavaScript | 📅 2026-09-29 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,802 | 🐛 791 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
 * [mui](https://github.com/muicss/mui) ⭐ 4,478 | 🐛 77 | 🌐 JavaScript | 📅 2021-08-23 — A lightweight CSS framework that follows Material Design guidelines.
 * [material-framework](https://github.com/nt1m/material-framework) ⭐ 381 | 🐛 36 | 🌐 HTML | 📅 2019-12-07 — An easy to use material design based framework.
 * [Surface](https://github.com/mildrenben/surface) ⭐ 357 | 🐛 27 | 🌐 CSS | 📅 2022-12-06 — A lightweight, CSS only framework based on Material Design.
@@ -48,8 +48,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # JS
 
-* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,194 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
-* [Angular](https://github.com/angular/material2) ⭐ 25,037 | 🐛 1,373 | 🌐 TypeScript | 📅 2026-09-25 — Material design for Angular.
+* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,192 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
+* [Angular](https://github.com/angular/material2) ⭐ 25,037 | 🐛 1,368 | 🌐 TypeScript | 📅 2026-09-29 — Material design for Angular.
 * [AngularJS](https://github.com/angular/material) ⚠️ Archived — Material design for AngularJS.
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 878 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 — The Ember approach to Material Design.
 * [react-material](https://github.com/BerkeleyTrue/react-material) ⚠️ Archived — Material design components written with React.js and React Style.
@@ -69,11 +69,11 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # WinForms
 
-* [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) ⭐ 3,040 | 🐛 149 | 🌐 C# | 📅 2024-07-15 — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+* [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) ⭐ 3,039 | 🐛 149 | 🌐 C# | 📅 2024-07-15 — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 
 # XAML
 
-* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,265 | 🐛 145 | 🌐 C# | 📅 2026-09-28 — Google's Material Design in XAML & WPF, for C# & VB.Net.
+* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,267 | 🐛 145 | 🌐 C# | 📅 2026-09-28 — Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 # Other
 
@@ -97,4 +97,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
