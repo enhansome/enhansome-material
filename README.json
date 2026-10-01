@@ -16,10 +16,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T02:19:04Z",
-            "open_issues": 426,
+            "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54050,
+            "stars": 54053,
             "topics": [
               "android",
               "icons",
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:04:01Z",
-            "open_issues": 1460,
+            "last_commit": "2026-10-01T09:44:53Z",
+            "open_issues": 1469,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99117,
+            "stars": 99120,
             "topics": [
               "design-system",
               "material-design",
@@ -356,7 +356,7 @@
             "open_issues": 790,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38804,
+            "stars": 38801,
             "topics": [
               "css",
               "css-framework",
@@ -572,7 +572,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32193,
+            "stars": 32192,
             "topics": [
               "material",
               "material-components",
@@ -595,8 +595,8 @@
             "id": 49016322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:15:19Z",
-            "open_issues": 1371,
+            "last_commit": "2026-10-01T09:44:41Z",
+            "open_issues": 1376,
             "owner": "angular",
             "repo": "components",
             "stars": 25037,
@@ -625,7 +625,7 @@
             "open_issues": 278,
             "owner": "angular",
             "repo": "material",
-            "stars": 16392,
+            "stars": 16390,
             "topics": [
               "angularjs",
               "angularjs-material",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:25:58.977Z",
+    "last_updated": "2026-10-01T10:53:27.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
