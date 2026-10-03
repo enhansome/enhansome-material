@@ -329,7 +329,7 @@
             "open_issues": 1473,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99124,
+            "stars": 99125,
             "topics": [
               "design-system",
               "material-design",
@@ -599,7 +599,7 @@
             "open_issues": 1377,
             "owner": "angular",
             "repo": "components",
-            "stars": 25037,
+            "stars": 25036,
             "topics": [
               "angular",
               "angular-components",
@@ -860,7 +860,7 @@
             "open_issues": 145,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16270,
+            "stars": 16269,
             "topics": [
               "c-sharp",
               "design",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:24.134Z",
+    "last_updated": "2026-10-03T09:48:52.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
