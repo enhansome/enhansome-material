@@ -15,11 +15,11 @@
             "id": 24953448,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T02:22:12Z",
+            "last_commit": "2026-10-09T02:26:05Z",
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54089,
+            "stars": 54091,
             "topics": [
               "android",
               "icons",
@@ -48,7 +48,7 @@
             "open_issues": 64,
             "owner": "zavoloklom",
             "repo": "material-design-iconic-font",
-            "stars": 1404,
+            "stars": 1403,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -197,7 +197,7 @@
             "open_issues": 11,
             "owner": "alexk111",
             "repo": "SVG-Morpheus",
-            "stars": 2695,
+            "stars": 2696,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T11:13:43Z",
-            "open_issues": 1465,
+            "last_commit": "2026-10-09T10:44:45Z",
+            "open_issues": 1462,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99145,
+            "stars": 99156,
             "topics": [
               "design-system",
               "material-design",
@@ -356,7 +356,7 @@
             "open_issues": 789,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38791,
+            "stars": 38790,
             "topics": [
               "css",
               "css-framework",
@@ -385,7 +385,7 @@
             "open_issues": 77,
             "owner": "muicss",
             "repo": "mui",
-            "stars": 4478,
+            "stars": 4479,
             "topics": [
               "css-framework",
               "google-material",
@@ -572,7 +572,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32188,
+            "stars": 32185,
             "topics": [
               "material",
               "material-components",
@@ -596,10 +596,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-07T18:33:18Z",
-            "open_issues": 1385,
+            "open_issues": 1387,
             "owner": "angular",
             "repo": "components",
-            "stars": 25033,
+            "stars": 25034,
             "topics": [
               "angular",
               "angular-components",
@@ -652,7 +652,7 @@
             "open_issues": 206,
             "owner": "adopted-ember-addons",
             "repo": "ember-paper",
-            "stars": 878,
+            "stars": 877,
             "topics": [
               "ember",
               "ember-addon",
@@ -827,7 +827,7 @@
             "open_issues": 149,
             "owner": "IgnaceMaes",
             "repo": "MaterialSkin",
-            "stars": 3042,
+            "stars": 3041,
             "topics": [
               "c-sharp",
               "design",
@@ -856,11 +856,11 @@
             "id": 30474266,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:18:24Z",
-            "open_issues": 146,
+            "last_commit": "2026-10-09T05:58:01Z",
+            "open_issues": 143,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16274,
+            "stars": 16272,
             "topics": [
               "c-sharp",
               "design",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:17:42.589Z",
+    "last_updated": "2026-10-09T11:16:18.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
