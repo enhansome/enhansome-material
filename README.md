@@ -4,8 +4,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Icons, Fonts and Colors
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,130 | 🐛 429 | 📅 2026-10-09 — Material Design icons by Google.
-* [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,402 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17 — Material Design Iconic Font and CSS toolkit.
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,133 | 🐛 429 | 📅 2026-10-09 — Material Design icons by Google.
+* [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17 — Material Design Iconic Font and CSS toolkit.
 * [material-colors](https://github.com/shuhei/material-colors) ⭐ 271 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-28 — Colors of Google's Material Design made available to coders.
 * [material-color](https://github.com/mrmlnc/material-color) ⭐ 137 | 🐛 1 | 🌐 CSS | 📅 2017-07-28 — The colour palette, based on Google's Material Design, for use in your project.
 * [sass-material-colors](https://github.com/minusfive/sass-material-colors) ⚠️ Archived — An easy way to use Google's Material Design colors in your Sass/Scss project.
@@ -35,7 +35,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # CSS
 
-* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,242 | 🐛 1,520 | 🌐 JavaScript | 📅 2026-10-19 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,251 | 🐛 1,515 | 🌐 JavaScript | 📅 2026-10-20 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
 * [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,784 | 🐛 790 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
 * [mui](https://github.com/muicss/mui) ⭐ 4,477 | 🐛 77 | 🌐 JavaScript | 📅 2021-08-23 — A lightweight CSS framework that follows Material Design guidelines.
 * [material-framework](https://github.com/nt1m/material-framework) ⭐ 381 | 🐛 36 | 🌐 HTML | 📅 2019-12-07 — An easy to use material design based framework.
@@ -48,8 +48,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # JS
 
-* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,180 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
-* [Angular](https://github.com/angular/material2) ⭐ 25,031 | 🐛 1,392 | 🌐 TypeScript | 📅 2026-10-16 — Material design for Angular.
+* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,181 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
+* [Angular](https://github.com/angular/material2) ⭐ 25,033 | 🐛 1,396 | 🌐 TypeScript | 📅 2026-10-16 — Material design for Angular.
 * [AngularJS](https://github.com/angular/material) ⚠️ Archived — Material design for AngularJS.
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 877 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 — The Ember approach to Material Design.
 * [react-material](https://github.com/BerkeleyTrue/react-material) ⚠️ Archived — Material design components written with React.js and React Style.
@@ -69,11 +69,11 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # WinForms
 
-* [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) ⭐ 3,043 | 🐛 149 | 🌐 C# | 📅 2024-07-15 — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+* [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) ⭐ 3,044 | 🐛 149 | 🌐 C# | 📅 2024-07-15 — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 
 # XAML
 
-* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,282 | 🐛 145 | 🌐 C# | 📅 2026-10-17 — Google's Material Design in XAML & WPF, for C# & VB.Net.
+* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,284 | 🐛 145 | 🌐 C# | 📅 2026-10-20 — Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 # Other
 
@@ -89,7 +89,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,731 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,733 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ## Contributing
 
@@ -97,4 +97,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
