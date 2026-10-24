@@ -19,7 +19,7 @@
             "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54145,
+            "stars": 54149,
             "topics": [
               "android",
               "icons",
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:26:31Z",
-            "open_issues": 1520,
+            "last_commit": "2026-10-24T06:30:14Z",
+            "open_issues": 1527,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99259,
+            "stars": 99261,
             "topics": [
               "design-system",
               "material-design",
@@ -572,7 +572,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32183,
+            "stars": 32185,
             "topics": [
               "material",
               "material-components",
@@ -595,8 +595,8 @@
             "id": 49016322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:56:54Z",
-            "open_issues": 1396,
+            "last_commit": "2026-10-23T19:35:47Z",
+            "open_issues": 1398,
             "owner": "angular",
             "repo": "components",
             "stars": 25033,
@@ -625,7 +625,7 @@
             "open_issues": 278,
             "owner": "angular",
             "repo": "material",
-            "stars": 16387,
+            "stars": 16388,
             "topics": [
               "angularjs",
               "angularjs-material",
@@ -860,7 +860,7 @@
             "open_issues": 145,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16282,
+            "stars": 16283,
             "topics": [
               "c-sharp",
               "design",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:17:09.493Z",
+    "last_updated": "2026-10-24T08:49:31.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
