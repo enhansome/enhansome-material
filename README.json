@@ -16,10 +16,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 430,
+            "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54170,
+            "stars": 54176,
             "topics": [
               "android",
               "icons",
@@ -197,7 +197,7 @@
             "open_issues": 11,
             "owner": "alexk111",
             "repo": "SVG-Morpheus",
-            "stars": 2696,
+            "stars": 2694,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:23:46Z",
-            "open_issues": 1536,
+            "last_commit": "2026-10-28T10:18:25Z",
+            "open_issues": 1534,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99279,
+            "stars": 99283,
             "topics": [
               "design-system",
               "material-design",
@@ -356,7 +356,7 @@
             "open_issues": 790,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38780,
+            "stars": 38782,
             "topics": [
               "css",
               "css-framework",
@@ -572,7 +572,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32186,
+            "stars": 32187,
             "topics": [
               "material",
               "material-components",
@@ -596,7 +596,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-23T19:35:47Z",
-            "open_issues": 1399,
+            "open_issues": 1400,
             "owner": "angular",
             "repo": "components",
             "stars": 25039,
@@ -625,7 +625,7 @@
             "open_issues": 278,
             "owner": "angular",
             "repo": "material",
-            "stars": 16391,
+            "stars": 16387,
             "topics": [
               "angularjs",
               "angularjs-material",
@@ -898,7 +898,7 @@
             "open_issues": 12,
             "owner": "1sters",
             "repo": "material_design_zh",
-            "stars": 3045,
+            "stars": 3044,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:45:31.244Z",
+    "last_updated": "2026-10-28T10:30:23.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",

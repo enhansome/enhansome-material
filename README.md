@@ -4,7 +4,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Icons, Fonts and Colors
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,170 | 🐛 430 | 📅 2026-10-23 — Material Design icons by Google.
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,176 | 🐛 429 | 📅 2026-10-23 — Material Design icons by Google.
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17 — Material Design Iconic Font and CSS toolkit.
 * [material-colors](https://github.com/shuhei/material-colors) ⭐ 271 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-28 — Colors of Google's Material Design made available to coders.
 * [material-color](https://github.com/mrmlnc/material-color) ⭐ 137 | 🐛 1 | 🌐 CSS | 📅 2017-07-28 — The colour palette, based on Google's Material Design, for use in your project.
@@ -25,7 +25,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Components
 
-* [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) ⭐ 2,696 | 🐛 11 | 🌐 JavaScript | 📅 2017-07-21 — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
+* [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) ⭐ 2,694 | 🐛 11 | 🌐 JavaScript | 📅 2017-07-21 — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
 * [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) ⭐ 463 | 🐛 28 | 🌐 JavaScript | 📅 2016-10-23 — Material design floating menu with action buttons implemented as an Angularjs directive.
 * [md-date-time](https://github.com/SimeonC/md-date-time) ⚠️ Archived — A Date-Time picker based on Googles Material Design Spec.
 * [material-design-color-palette](https://github.com/zavoloklom/material-design-color-palette) ⭐ 165 | 🐛 4 | 🌐 CSS | 📅 2016-03-19 — Material Design Color Palette: LESS/CSS toolkit.
@@ -35,8 +35,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # CSS
 
-* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,279 | 🐛 1,536 | 🌐 JavaScript | 📅 2026-10-27 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
-* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,780 | 🐛 790 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
+* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,283 | 🐛 1,534 | 🌐 JavaScript | 📅 2026-10-28 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,782 | 🐛 790 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
 * [mui](https://github.com/muicss/mui) ⭐ 4,477 | 🐛 77 | 🌐 JavaScript | 📅 2021-08-23 — A lightweight CSS framework that follows Material Design guidelines.
 * [material-framework](https://github.com/nt1m/material-framework) ⭐ 381 | 🐛 36 | 🌐 HTML | 📅 2019-12-07 — An easy to use material design based framework.
 * [Surface](https://github.com/mildrenben/surface) ⭐ 357 | 🐛 27 | 🌐 CSS | 📅 2022-12-06 — A lightweight, CSS only framework based on Material Design.
@@ -48,8 +48,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # JS
 
-* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,186 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
-* [Angular](https://github.com/angular/material2) ⭐ 25,039 | 🐛 1,399 | 🌐 TypeScript | 📅 2026-10-23 — Material design for Angular.
+* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,187 | 🐛 431 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
+* [Angular](https://github.com/angular/material2) ⭐ 25,039 | 🐛 1,400 | 🌐 TypeScript | 📅 2026-10-23 — Material design for Angular.
 * [AngularJS](https://github.com/angular/material) ⚠️ Archived — Material design for AngularJS.
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 877 | 🐛 206 | 🌐 JavaScript | 📅 2026-07-27 — The Ember approach to Material Design.
 * [react-material](https://github.com/BerkeleyTrue/react-material) ⚠️ Archived — Material design components written with React.js and React Style.
@@ -77,7 +77,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Other
 
-* [material\_design\_zh](https://github.com/1sters/material_design_zh) ⭐ 3,045 | 🐛 12 | 🌐 CSS | 📅 2019-05-06 — Material Design Collaborative Chinese translation
+* [material\_design\_zh](https://github.com/1sters/material_design_zh) ⭐ 3,044 | 🐛 12 | 🌐 CSS | 📅 2019-05-06 — Material Design Collaborative Chinese translation
 * [material-color-scheme](https://github.com/paradox41/material-color-scheme) ⚠️ Archived — Sublime Text syntax theme based off the Material Design color palette.
 * [framaterial](https://github.com/Framaterial/framaterial) ⭐ 44 | 🐛 7 | 🌐 CSS | 📅 2015-10-14 — A Framework to create Material Design projects.
 * [Material Toolkit for LabVIEW](https://github.com/danielcoons/tsc-material-theme) ⭐ 26 | 🐛 5 | 🌐 LabVIEW | 📅 2026-10-26 - Material Design for LabVIEW applications; import, modify, and use generated themes.
@@ -89,7 +89,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,750 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,751 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ## Contributing
 
@@ -97,4 +97,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
