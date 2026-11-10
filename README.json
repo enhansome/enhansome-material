@@ -19,7 +19,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54253,
+            "stars": 54263,
             "topics": [
               "android",
               "icons",
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T10:19:25Z",
-            "open_issues": 1552,
+            "last_commit": "2026-11-10T12:27:19Z",
+            "open_issues": 1557,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99304,
+            "stars": 99310,
             "topics": [
               "design-system",
               "material-design",
@@ -572,7 +572,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32190,
+            "stars": 32193,
             "topics": [
               "material",
               "material-components",
@@ -595,11 +595,11 @@
             "id": 49016322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T20:11:42Z",
+            "last_commit": "2026-11-10T12:08:08Z",
             "open_issues": 1400,
             "owner": "angular",
             "repo": "components",
-            "stars": 25043,
+            "stars": 25044,
             "topics": [
               "angular",
               "angular-components",
@@ -625,7 +625,7 @@
             "open_issues": 278,
             "owner": "angular",
             "repo": "material",
-            "stars": 16379,
+            "stars": 16380,
             "topics": [
               "angularjs",
               "angularjs-material",
@@ -857,7 +857,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-01T19:36:51Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
             "stars": 16297,
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:45:11.792Z",
+    "last_updated": "2026-11-10T12:30:28.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
