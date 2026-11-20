@@ -16,10 +16,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 430,
+            "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54332,
+            "stars": 54338,
             "topics": [
               "android",
               "icons",
@@ -197,7 +197,7 @@
             "open_issues": 11,
             "owner": "alexk111",
             "repo": "SVG-Morpheus",
-            "stars": 2692,
+            "stars": 2691,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -218,7 +218,7 @@
             "open_issues": 28,
             "owner": "nobitagit",
             "repo": "ng-material-floating-button",
-            "stars": 463,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T11:46:49Z",
-            "open_issues": 1517,
+            "last_commit": "2026-11-20T12:27:58Z",
+            "open_issues": 1518,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99357,
+            "stars": 99370,
             "topics": [
               "design-system",
               "material-design",
@@ -385,7 +385,7 @@
             "open_issues": 77,
             "owner": "muicss",
             "repo": "mui",
-            "stars": 4473,
+            "stars": 4472,
             "topics": [
               "css-framework",
               "google-material",
@@ -596,10 +596,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-19T09:21:36Z",
-            "open_issues": 1412,
+            "open_issues": 1415,
             "owner": "angular",
             "repo": "components",
-            "stars": 25047,
+            "stars": 25049,
             "topics": [
               "angular",
               "angular-components",
@@ -625,7 +625,7 @@
             "open_issues": 278,
             "owner": "angular",
             "repo": "material",
-            "stars": 16381,
+            "stars": 16378,
             "topics": [
               "angularjs",
               "angularjs-material",
@@ -652,7 +652,7 @@
             "open_issues": 205,
             "owner": "adopted-ember-addons",
             "repo": "ember-paper",
-            "stars": 875,
+            "stars": 873,
             "topics": [
               "ember",
               "ember-addon",
@@ -827,7 +827,7 @@
             "open_issues": 149,
             "owner": "IgnaceMaes",
             "repo": "MaterialSkin",
-            "stars": 3047,
+            "stars": 3046,
             "topics": [
               "c-sharp",
               "design",
@@ -856,8 +856,8 @@
             "id": 30474266,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:30:24Z",
-            "open_issues": 144,
+            "last_commit": "2026-11-20T07:27:13Z",
+            "open_issues": 140,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
             "stars": 16304,
@@ -953,7 +953,7 @@
           "repo_info": {
             "archived": false,
             "description": "Dynamic UI Theme Application in LabVIEW VIs",
-            "homepage": null,
+            "homepage": "https://danielcoons.com/material-theme/",
             "id": 1020242172,
             "language": "LabVIEW",
             "license": "BSD-3-Clause",
@@ -962,7 +962,10 @@
             "owner": "danielcoons",
             "repo": "tsc-material-theme",
             "stars": 27,
-            "topics": []
+            "topics": [
+              "labview",
+              "labview-gui"
+            ]
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
         }
@@ -971,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:53:26.584Z",
+    "last_updated": "2026-11-20T12:45:00.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
