@@ -19,7 +19,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54361,
+            "stars": 54366,
             "topics": [
               "android",
               "icons",
@@ -325,11 +325,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T14:10:54Z",
-            "open_issues": 1511,
+            "last_commit": "2026-11-25T13:15:52Z",
+            "open_issues": 1525,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99389,
+            "stars": 99394,
             "topics": [
               "design-system",
               "material-design",
@@ -356,7 +356,7 @@
             "open_issues": 790,
             "owner": "Dogfalo",
             "repo": "materialize",
-            "stars": 38767,
+            "stars": 38765,
             "topics": [
               "css",
               "css-framework",
@@ -572,7 +572,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-lite",
-            "stars": 32192,
+            "stars": 32191,
             "topics": [
               "material",
               "material-components",
@@ -595,11 +595,11 @@
             "id": 49016322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T18:58:33Z",
-            "open_issues": 1412,
+            "last_commit": "2026-11-25T13:18:28Z",
+            "open_issues": 1415,
             "owner": "angular",
             "repo": "components",
-            "stars": 25048,
+            "stars": 25045,
             "topics": [
               "angular",
               "angular-components",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:45:20.624Z",
+    "last_updated": "2026-11-25T14:11:52.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
