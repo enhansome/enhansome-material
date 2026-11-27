@@ -4,7 +4,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Icons, Fonts and Colors
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,371 | 🐛 430 | 📅 2026-10-23 — Material Design icons by Google.
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,375 | 🐛 430 | 📅 2026-10-23 — Material Design icons by Google.
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,400 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17 — Material Design Iconic Font and CSS toolkit.
 * [material-colors](https://github.com/shuhei/material-colors) ⭐ 270 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-28 — Colors of Google's Material Design made available to coders.
 * [material-color](https://github.com/mrmlnc/material-color) ⭐ 137 | 🐛 1 | 🌐 CSS | 📅 2017-07-28 — The colour palette, based on Google's Material Design, for use in your project.
@@ -18,14 +18,14 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 # Animation
 
 * JavaScript
-  * [Waves](https://github.com/fians/Waves) ⭐ 3,453 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-11 — Click effect inspired by Google's Material Design.
+  * [Waves](https://github.com/fians/Waves) ⭐ 3,454 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-11 — Click effect inspired by Google's Material Design.
   * [material-design-hamburger](https://github.com/swirlycheetah/material-design-hamburger) ⭐ 88 | 🐛 2 | 🌐 CSS | 📅 2026-08-28 — Android's Material Design hamburger animation built in CSS.
   * [Material-Preloader](https://github.com/aarondo/Material-Preloader) ⭐ 362 | 🐛 4 | 🌐 CSS | 📅 2017-05-09 — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
   * [Google-material-design-ripple-effect](https://github.com/ninox92/Google-material-design-ripple-effect) — jQuery plugin recreates ripple and focus effect.
 
 # Components
 
-* [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) ⭐ 2,691 | 🐛 11 | 🌐 JavaScript | 📅 2017-07-21 — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
+* [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) ⭐ 2,690 | 🐛 11 | 🌐 JavaScript | 📅 2017-07-21 — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
 * [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) ⭐ 460 | 🐛 28 | 🌐 JavaScript | 📅 2016-10-23 — Material design floating menu with action buttons implemented as an Angularjs directive.
 * [md-date-time](https://github.com/SimeonC/md-date-time) ⚠️ Archived — A Date-Time picker based on Googles Material Design Spec.
 * [material-design-color-palette](https://github.com/zavoloklom/material-design-color-palette) ⭐ 165 | 🐛 4 | 🌐 CSS | 📅 2016-03-19 — Material Design Color Palette: LESS/CSS toolkit.
@@ -35,8 +35,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # CSS
 
-* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,402 | 🐛 1,523 | 🌐 JavaScript | 📅 2026-11-26 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
-* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,764 | 🐛 790 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
+* [material-ui](https://github.com/callemall/material-ui) ⭐ 99,408 | 🐛 1,508 | 🌐 JavaScript | 📅 2026-11-27 — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+* [materialize](https://github.com/Dogfalo/materialize) ⭐ 38,763 | 🐛 790 | 🌐 JavaScript | 📅 2026-08-20 — Materialize, a CSS Framework based on Material Design.
 * [mui](https://github.com/muicss/mui) ⭐ 4,471 | 🐛 77 | 🌐 JavaScript | 📅 2021-08-23 — A lightweight CSS framework that follows Material Design guidelines.
 * [material-framework](https://github.com/nt1m/material-framework) ⭐ 381 | 🐛 36 | 🌐 HTML | 📅 2019-12-07 — An easy to use material design based framework.
 * [Surface](https://github.com/mildrenben/surface) ⭐ 356 | 🐛 27 | 🌐 CSS | 📅 2022-12-06 — A lightweight, CSS only framework based on Material Design.
@@ -48,8 +48,8 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # JS
 
-* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,192 | 🐛 430 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
-* [Angular](https://github.com/angular/material2) ⭐ 25,048 | 🐛 1,413 | 🌐 TypeScript | 📅 2026-11-26 — Material design for Angular.
+* [material-design-lite](https://github.com/google/material-design-lite/) ⭐ 32,193 | 🐛 430 | 🌐 HTML | 📅 2026-05-03 — Material Design Lite Components in HTML/CSS/JS.
+* [Angular](https://github.com/angular/material2) ⭐ 25,049 | 🐛 1,414 | 🌐 TypeScript | 📅 2026-11-27 — Material design for Angular.
 * [AngularJS](https://github.com/angular/material) ⚠️ Archived — Material design for AngularJS.
 * [ember-paper](https://github.com/miguelcobain/ember-paper) ⭐ 872 | 🐛 205 | 🌐 JavaScript | 📅 2026-07-27 — The Ember approach to Material Design.
 * [react-material](https://github.com/BerkeleyTrue/react-material) ⚠️ Archived — Material design components written with React.js and React Style.
@@ -73,7 +73,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # XAML
 
-* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,306 | 🐛 138 | 🌐 C# | 📅 2026-11-23 — Google's Material Design in XAML & WPF, for C# & VB.Net.
+* [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,309 | 🐛 139 | 🌐 C# | 📅 2026-11-23 — Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 # Other
 
@@ -89,7 +89,7 @@ A curated list of Google's [material design](http://www.google.com/design/spec) 
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,808 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,812 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ## Contributing
 
@@ -97,4 +97,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
