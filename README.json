@@ -16,10 +16,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 430,
+            "open_issues": 428,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54375,
+            "stars": 54382,
             "topics": [
               "android",
               "icons",
@@ -48,7 +48,7 @@
             "open_issues": 64,
             "owner": "zavoloklom",
             "repo": "material-design-iconic-font",
-            "stars": 1400,
+            "stars": 1399,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:56.863Z"
@@ -325,8 +325,8 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T12:17:53Z",
-            "open_issues": 1508,
+            "last_commit": "2026-11-28T09:15:52Z",
+            "open_issues": 1513,
             "owner": "mui",
             "repo": "material-ui",
             "stars": 99408,
@@ -599,7 +599,7 @@
             "open_issues": 1414,
             "owner": "angular",
             "repo": "components",
-            "stars": 25049,
+            "stars": 25050,
             "topics": [
               "angular",
               "angular-components",
@@ -860,7 +860,7 @@
             "open_issues": 139,
             "owner": "MaterialDesignInXAML",
             "repo": "MaterialDesignInXamlToolkit",
-            "stars": 16309,
+            "stars": 16310,
             "topics": [
               "c-sharp",
               "design",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:44:54.969Z",
+    "last_updated": "2026-11-28T12:53:16.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Google's material design libraries for different frameworks.",
